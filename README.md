@@ -21,7 +21,7 @@ Inline colored diffs for modified files
 
 ⚙️ Setup
 1️⃣ Clone the repository
-git clone [https://github.com/Nikhil51ck/version_control_system.git]
+git clone [https://github.com/Yousha2004/Version-_Control_System.git]
 cd vcs
 
 2️⃣ Install dependencies
